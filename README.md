@@ -30,8 +30,7 @@ loruki-deployment-platform/
 - HTML5
 - CSS3 (with Flexbox and Grid)
 - Responsive design principles
-- Modern JavaScript (for form handling)
-
+  
 ## Demo
 
 Visit the live demo [here](#) (replace with your deployed URL when available)
